@@ -1,7 +1,9 @@
 <h1 align="center">Martin Besozzi</h1>
 <h3 align="center">IAM Architect | IAM Consultant</h3>
 <p align="center"> Digital Identity • Authentication • Authorization • Identity Standards</p>
-Solving problems in the Identity & Access Management Space, with experience in Identity Standards and IAM suites such as  Keycloak, ForgeRock, Midpoint.   
+Solving problems in the Identity & Access Management Space, with experience in Identity Standards and IAM suites such as  Keycloak, ForgeRock, Midpoint.
+<br/>
+<br/>
 <p align="center">
     <a href="https://twitter.com/@embesozzi">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/@embesozzi" />
