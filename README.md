@@ -10,7 +10,7 @@ Solving problems in the Identity & Access Management Space, with experience in I
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Step Up Authentication Challenge Protocol based RFC 9470 🖤 @vibronet <a></li>
     <li>Technical Review 📖: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
     <li>Workshop: <a href="https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop">Interoperability Microsoft Entra Verifiable Credentials</a></li>         
-    <li>Article: <a href="https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42b">Step-Up and Multi-factor Authentication (MFA) for Web Apps and API</a>    
+    <li>Article: <a href="https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42">Step-Up and Multi-factor Authentication (MFA) for Web Apps and API</a>    
 </p>
 <p align="center">
     <a href="https://twitter.com/@embesozzi">
