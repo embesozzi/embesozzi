@@ -1,5 +1,5 @@
 <h1 align="center">Martin Besozzi</h1>
-<h3 align="center">IAM Architect | IAM Consultant | Developer</h3>
+<h3 align="center">Founder | IAM Architect | IAM Consultant</h3>
 <p align="center"> Digital Identity • Authentication • Authorization • Identity Standards</p>
 Solving problems in the Identity & Access Management Space, with experience in Identity Standards and IAM suites such as  Keycloak, ForgeRock, Midpoint.
 <h4>:heart: Recent Topics</h4>
