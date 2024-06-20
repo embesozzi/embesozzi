@@ -1,14 +1,14 @@
 <h1 align="center">Martin Besozzi</h1>
-<h3 align="center">Founder | IAM Architect | IAM Consultant</h3>
+<h3 align="center">Founder | IAM Architect | Identity Standard Specialist </h3>
 <p align="center"> Digital Identity • Authentication • Authorization • Identity Standards</p>
 Solving problems in the Identity & Access Management Space, with experience in Identity Standards and IAM suites such as  Keycloak, ForgeRock, Midpoint.
-<h4>:heart: Recent Topics</h4>
+<h4>Recent Topics</h4>
 <p align="center">
 <ul>
+    <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-integration-with-openfga-based-on-zanzibar-for-fine-grained-authorization-at-scale-d3376de00f9a">Keycloak integration with OpenFGA based on Zanzibar for Fine-Grained Authorization at Scale (ReBAC)</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Passwordless experience with Passkeys and Passkeys Autofill (Conditional UI)<a></li>
-    <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Step Up Authentication Challenge Protocol based RFC 9470 🖤 @vibronet <a></li>
-    <li>Technical Review 📖: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
+    <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Step Up Authentication Challenge Protocol based RFC 9470 (@vibronet 🖤) <a></li>
     <li>Workshop: <a href="https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop">Interoperability Microsoft Entra Verifiable Credentials</a></li>         
     <li>Article: <a href="https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42">Step-Up and Multi-factor Authentication (MFA) for Web Apps and API</a>    
 </p>
