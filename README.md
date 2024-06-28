@@ -6,6 +6,7 @@ Solving problems in the Identity & Access Management Space, with experience in I
 <p align="center">
 <ul>
     <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
+    <li>Article | Workshop: <a href="https://embesozzi.medium.com/mastering-access-control-implementing-low-code-authorization-based-on-rebac-and-decoupling-pattern-f6f54f70115e">Mastering Access Control: Implementing Low-Code Authorization Based on ReBAC and Decoupling Pattern</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-integration-with-openfga-based-on-zanzibar-for-fine-grained-authorization-at-scale-d3376de00f9a">Keycloak integration with OpenFGA based on Zanzibar for Fine-Grained Authorization at Scale (ReBAC)</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Passwordless experience with Passkeys and Passkeys Autofill (Conditional UI)<a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Step Up Authentication Challenge Protocol based RFC 9470 (@vibronet 🖤) <a></li>
