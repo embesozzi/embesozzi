@@ -5,12 +5,13 @@ Solving problems in the Identity & Access Management Space, with experience in I
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
-    <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
+    <li>Book: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a> (Technical Reviewer)</li>
+    <li>Article: <a href="https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278">Deep Dive into Enhancing User Experience with Native Authentication and Passkeys in Keycloak</a></li>
     <li>Article | Workshop: <a href="https://embesozzi.medium.com/mastering-access-control-implementing-low-code-authorization-based-on-rebac-and-decoupling-pattern-f6f54f70115e">Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-integration-with-openfga-based-on-zanzibar-for-fine-grained-authorization-at-scale-d3376de00f9a">Keycloak integration with OpenFGA based on Zanzibar for Fine-Grained Authorization at Scale (ReBAC)</a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Passwordless experience with Passkeys and Passkeys Autofill (Conditional UI)<a></li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b">Step Up Authentication Challenge Protocol based RFC 9470 (@vibronet 🖤) <a></li>
-    <li>Workshop: <a href="https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop">Interoperability Microsoft Entra Verifiable Credentials</a></li>         
+    <li>Workshop: <a href="https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop">Interoperability Workshop Microsoft Verifiable Credentials for Identity Claims</a></li>         
     <li>Article: <a href="https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42">Step-Up and Multi-factor Authentication (MFA) for Web Apps and API</a>    
 </p>
 <p align="center">
