@@ -5,7 +5,7 @@ Solving problems in the Identity and Access Management (IAM) space, with experie
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
-    <li>Book: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a> (Technical Reviewer)</li>
+    <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
      <li>Speaker: <a href="https://keyconf.dev">KeyConf24</a> - Enhancing User Experience with Native Authentication and Passkeys in Keycloak</li>
     <li>Article | Workshop: <a href="https://medium.com/@embesozzi/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64">Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and Open-Source Software: Keycloak, OpenFGA and Apache APISIX</a></li>
     <li>Article: <a href="https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278">Deep Dive into Enhancing User Experience with Native Authentication and Passkeys in Keycloak</a></li>
