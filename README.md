@@ -1,5 +1,5 @@
 <h1 align="center">Martin Besozzi</h1>
-<h3 align="center">Founder | IAM Architect | Identity Standard Specialist </h3>
+<h3 align="center">IAM Architect | Identity Standard Specialist | Founder </h3>
 <p align="center"> Digital Identity • Authentication • Authorization • Identity Standards</p>
 Solving problems in the Identity and Access Management (IAM) space, with experience in identity standards, IAM suites such as Keycloak, ForgeRock / Ping Identity, and Midpoint, and authorization platforms like OpenFGA.
 <h4>Recent Topics</h4>
