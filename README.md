@@ -5,6 +5,7 @@ Solving problems in the Identity and Access Management (IAM) space, with experie
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
+    <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_keycloak-llms-ai-activity-7325126855794036737-Gjut?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Keycloak MCP Server</a> for managing Keycloak using natural language through LLMs and AI agents</li>
     <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
     <li>Speaker: Conference <a href="https://www.keycloak-day.dev">KeyDev25</a> - Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code</li> 
     <li>Speaker: Conference <a href="https://keyconf.dev">KeyConf24</a> - Enhancing User Experience with Native Authentication and Passkeys in Keycloak</li>
