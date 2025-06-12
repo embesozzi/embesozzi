@@ -1,10 +1,12 @@
 <h1 align="center">Martin Besozzi</h1>
 <h3 align="center">IAM Architect | Identity Standard Specialist | Founder </h3>
-<p align="center"> Digital Identity • Authentication • Authorization • Identity Standards</p>
-Solving problems in the Identity and Access Management (IAM) space, with experience in identity standards, IAM suites such as Keycloak, ForgeRock / Ping Identity, and Midpoint, and authorization platforms like OpenFGA.
+<p align="center"> Digital Identity • Authentication • AI • Authorization • Identity Standards</p>
+Solving problems in the Identity and Access Management (IAM) space, including Agentic AI, agents, and MCPs. Experienced in identity standards; IAM suites such as Keycloak, ForgeRock, Ping Identity, and MidPoint; and authorization platforms like OpenFGA.
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
+     <li>Blog on TwoGenIdentity featuring a compilation of my <a href="https://twogenidentity.com/blog">articles</a>❤️</li>
+     <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_midpoint-mcp-iga-activity-7331071290767839232-fnxC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Midpoint MCP Server</a> for managing Midpoint IGA using natural language through LLMs and AI agents</li>
     <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_keycloak-llms-ai-activity-7325126855794036737-Gjut?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Keycloak MCP Server</a> for managing Keycloak using natural language through LLMs and AI agents</li>
     <li>Book Technical Reviewer: <a href="https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND">Keycloak - Identity and Access Management for Modern App: OIDC, and OAuth 2.0 to secure apps 2nd Edition</a></li>
     <li>Speaker: Conference <a href="https://www.keycloak-day.dev">KeyDev25</a> - Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code</li> 
