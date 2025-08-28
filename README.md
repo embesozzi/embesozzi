@@ -5,6 +5,7 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
+      <li>Conference Keycloak KeyConf25 (Remote, Recorded): <a href="https://www.youtube.com/watch?v=UeIiIrXesKU">Agentic AI for Enterprise IAM</a></li> 
      <li>Blog on TwoGenIdentity featuring a compilation of my <a href="https://twogenidentity.com/blog">articles</a>❤️</li>
      <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_midpoint-mcp-iga-activity-7331071290767839232-fnxC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Midpoint MCP Server</a> for managing Midpoint IGA using natural language through LLMs and AI agents</li>
     <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_keycloak-llms-ai-activity-7325126855794036737-Gjut?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Keycloak MCP Server</a> for managing Keycloak using natural language through LLMs and AI agents</li>
