@@ -6,7 +6,7 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <p align="center">
 <ul>
      <li>Speaker: Conference <a href="https://authenticatecon.com/event/authenticate-2025/">Authenticate 2025</a> by FIDO Alliance <a href="https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Enhancing User Experience with Native Authentication and Passkeys in the IAM Space</a></li>
-     <li>Conference Keycloak KeyConf25 (Remote, Recorded): <a href="https://www.youtube.com/watch?v=UeIiIrXesKU">Agentic AI for Enterprise IAM</a></li> 
+     <li>Speaker: Conference Keycloak KeyConf25 (Remote, Recorded) <a href="https://www.youtube.com/watch?v=UeIiIrXesKU">Agentic AI for Enterprise IAM</a></li> 
      <li>Article: <a href="https://medium.com/@embesozzi/agentic-ai-platform-for-enterprise-iam-secure-agent-driven-governance-based-on-zero-trust-289a52f42790">Agentic AI Platform for Enterprise IAM: Secure Agent-Driven Governance with Keycloak MCP, Based on Zero-Trust Principles and FGA - From Vision to Implementation</a></li> 
      <li>Blog on TwoGenIdentity featuring a compilation of my <a href="https://twogenidentity.com/blog">articles</a>❤️</li>
      <li>Post announcing first <a href="https://www.linkedin.com/posts/embesozzi_midpoint-mcp-iga-activity-7331071290767839232-fnxC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Midpoint MCP Server</a> for managing Midpoint IGA using natural language through LLMs and AI agents</li>
