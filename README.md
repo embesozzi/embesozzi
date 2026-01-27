@@ -5,6 +5,18 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
+     <li>
+        Announcement: AuthZEN Gateway MCP security support, enabling dynamic, context-aware authorization and FGA in a live MCP App demo
+       <a href="https://www.linkedin.com/posts/embesozzi_authzen-api-ai-activity-7420581168661737473-aoNc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
+         Learn more
+       </a>
+     </li>   
+     <li>
+       Announcement: Released the AuthZEN Gateway for Apache APISIX, turning API and AI gateways into standardized AuthZEN Policy Enforcement Points.
+       <a href="https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
+         Learn more
+       </a>
+     </li>      
      <li>Speaker: Conference <a href="https://authenticatecon.com/event/authenticate-2025/">Authenticate 2025</a> by FIDO Alliance <a href="https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">Enhancing User Experience with Native Authentication and Passkeys in the IAM Space</a></li>
      <li>Speaker: Conference Keycloak KeyConf25 (Remote, Recorded) <a href="https://www.youtube.com/watch?v=UeIiIrXesKU">Agentic AI for Enterprise IAM</a></li> 
      <li>Article: <a href="https://medium.com/@embesozzi/agentic-ai-platform-for-enterprise-iam-secure-agent-driven-governance-based-on-zero-trust-289a52f42790">Agentic AI Platform for Enterprise IAM: Secure Agent-Driven Governance with Keycloak MCP, Based on Zero-Trust Principles and FGA - From Vision to Implementation</a></li> 
