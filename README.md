@@ -5,6 +5,12 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
+       <li>
+       First secure Keycloak MCP app protected by the AuthZEN MCP Gateway, following FGA and zero-trust principles ❤️
+       <a href="https://www.linkedin.com/posts/embesozzi_authzen-keycloak-mcp-activity-7422321178880417792-a9HI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
+         Learn more
+       </a>
+     </li> 
      <li>
         Announcement: AuthZEN Gateway MCP security support, enabling dynamic, context-aware authorization and FGA in a live MCP App demo
        <a href="https://www.linkedin.com/posts/embesozzi_authzen-api-ai-activity-7420581168661737473-aoNc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
@@ -12,7 +18,7 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
        </a>
      </li>   
      <li>
-       Announcement: Released the AuthZEN Gateway for Apache APISIX, turning API and AI gateways into standardized AuthZEN Policy Enforcement Points.
+       Released the AuthZEN Gateway for Apache APISIX, turning API and AI gateways into standardized AuthZEN Policy Enforcement Points.
        <a href="https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
          Learn more
        </a>
