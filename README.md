@@ -5,7 +5,19 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <h4>Recent Topics</h4>
 <p align="center">
 <ul>
-       <li>
+      <li>
+        Just-In-Time (JIT) Authorization for CLI AI Agents Claude Code & GitHub Copilot CLI
+       <a href="https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
+         Learn more
+       </a>
+     </li>
+      <li>
+        Just-In-Time (JIT) Authorization for AI Agents based Human-in-the-Loop (HITL) interactions and OAuth native experiences
+       <a href="https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
+         Learn more
+       </a>
+     </li> 
+      <li>
        First secure Keycloak MCP app protected by the AuthZEN MCP Gateway, following FGA and zero-trust principles ❤️
        <a href="https://www.linkedin.com/posts/embesozzi_authzen-keycloak-mcp-activity-7422321178880417792-a9HI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
          Learn more
