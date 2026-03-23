@@ -6,6 +6,12 @@ Solving problems in the Identity and Access Management (IAM) space, including Ag
 <p align="center">
 <ul>
       <li>
+        Passkeys Just-In-Time Authorization for AI agents based  <a href="https://twogenidentity.com/homes/ana/">TwoGenIdentity ANA Framework</a>
+       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7440169146383900672">
+         Post Link
+       </a>
+     </li>
+      <li>
         Just-In-Time (JIT) Authorization for CLI AI Agents Claude Code & GitHub Copilot CLI
        <a href="https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAakY8UBio1YDWcCyiTFBa_WdF8QNTgbMLM">
          Learn more
