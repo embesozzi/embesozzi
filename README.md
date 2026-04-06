@@ -39,7 +39,7 @@
 ### Speaking · Publishing
 
 - **[Authenticate 2025 — FIDO Alliance](https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9)** *(Conference Talk)*<br>
-  Enhancing User Experience with Native Authentication and Passkeys in the IAM Space
+  Enhancing User Experience with Native Authentication and Passkeys for Apps and Agents
 
 - **[KeyConf25](https://www.youtube.com/watch?v=UeIiIrXesKU)** *(Conference Talk · Recorded)*<br>
   Agentic AI for Enterprise IAM
