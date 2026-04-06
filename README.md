@@ -56,6 +56,11 @@
 - **[Keycloak — Identity and Access Management for Modern Applications, 2nd Edition](https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND)** *(Technical Reviewer)*<br>
   OIDC and OAuth 2.0 to secure apps
 
+### IETF
+
+- **[OAuth 2.0 Agents Native Authorization](https://datatracker.ietf.org/doc/draft-embesozzi-oauth-agent-native-authorization/)** *(Draft)*<br>
+ OAuth 2.0 Agents Native Authorization via Structured Elicitation
+
 ### Authentication · Passkeys · Verifiable Credentials
 
 - **[Deep Dive into Enhancing User Experience with Native Authentication and Passkeys in Keycloak](https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278)** *(Article)*
