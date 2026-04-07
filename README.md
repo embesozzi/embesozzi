@@ -15,6 +15,9 @@
 
 ### Agentic AI Security · Agents · MCP
 
+- **[Release of Agent Native Authorization (ANA) at TwoGenIdentity](https://agentnativeauthorization.com/)** <br>
+Agent-Native Authorization with Human-in-the-Loop
+
 - **[Passkeys Just-In-Time Authorization for AI Agents](https://www.linkedin.com/feed/update/urn:li:activity:7440169146383900672)**<br>
   Based on the TwoGenIdentity ANA Framework
 
@@ -41,17 +44,20 @@
 - **[Authenticate 2025 — FIDO Alliance](https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9)** *(Conference Talk)*<br>
   Enhancing User Experience with Native Authentication and Passkeys for Apps and Agents
 
+- **[TwoGenIdentity Blog](https://twogenidentity.com/blog)**<br>
+  A compilation of articles on IAM, Agentic AI, and identity standards
+
 - **[KeyConf25](https://www.youtube.com/watch?v=UeIiIrXesKU)** *(Conference Talk · Recorded)*<br>
   Agentic AI for Enterprise IAM
 
 - **[KeyDev25](https://www.keycloak-day.dev)** *(Conference Talk)*<br>
   Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code
 
+- **Cloudland 2025 - Addressing Modern Authorization Challenges** *(Conference Talk)*<br>
+Externalize Authorization based Open Standards, Low-Code Authorization with ReBAC and Policy as Code
+
 - **[KeyConf24](https://keyconf.dev)** *(Conference Talk)*<br>
   Enhancing User Experience with Native Authentication and Passkeys in Keycloak
-
-- **[TwoGenIdentity Blog](https://twogenidentity.com/blog)**<br>
-  A compilation of articles on IAM, Agentic AI, and identity standards
 
 - **[Keycloak — Identity and Access Management for Modern Applications, 2nd Edition](https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND)** *(Technical Reviewer)*<br>
   OIDC and OAuth 2.0 to secure apps
@@ -62,6 +68,9 @@
  OAuth 2.0 Agents Native Authorization via Structured Elicitation
 
 ### Authentication · Passkeys · Verifiable Credentials
+
+- **[Release of Passkeys 360 at TwoGenIdentity](https://passkeys360.com)** <br>
+Passkeys for Every Surface Unified Security for Apps & Agents
 
 - **[Deep Dive into Enhancing User Experience with Native Authentication and Passkeys in Keycloak](https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278)** *(Article)*
 
@@ -75,7 +84,7 @@
 
 ### Authorization
 
-- **[AuthZEN Plugin for Apache APISIX](https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp)**<br>
+- **[Release of OpenID AuthZEN for API/AI Gateway](https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp)**<br>
   Turning API and AI gateways into standardized AuthZEN Policy Enforcement Points
 
 - **[Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code](https://embesozzi.medium.com/mastering-access-control-implementing-low-code-authorization-based-on-rebac-and-decoupling-pattern-f6f54f70115e)** *(Article · Workshop)*
