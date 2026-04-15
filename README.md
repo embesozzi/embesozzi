@@ -2,7 +2,7 @@
 
 # Martin Besozzi
 
-**CTO · IAM Architect · Identity Standard Specialist · Founder**
+**AI Security Architect · IAM Architect · CTO · Founder**
 
 *Digital Identity · Authentication · AI · Authorization · Identity Standards · OSS*
 
