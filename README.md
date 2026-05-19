@@ -15,6 +15,9 @@
 
 ### Agentic AI Security · Agents · MCP
 
+- **[Agent Intent Authorization at TwoGenIdentity](https://twogenidentity.com/homes/agentintentauthorization/)** <br>
+Agent Intent Authorization is a new security layer that introduces a cryptographic proof of agent intent for authorization decisions based on zero trust at agent runtime.
+
 - **[Release of Agent Native Authorization (ANA) at TwoGenIdentity](https://agentnativeauthorization.com/)** <br>
 Agent-Native Authorization with Human-in-the-Loop
 
