@@ -14,7 +14,8 @@
 </div>
 
 ### Blog 
-- **[Technical Articles & Insights by Martin Besozzi](https://embesozzi.github.io/)**
+- **[Technical Articles & Insights by Martin Besozzi](https://embesozzi.github.io/)** <br>
+A new home for my technical articles, research papers, and insights on Identity, Security, Agentic AI, OAuth, Authorization, and Open Standards.
 
 ### Agentic AI Security · Agents · MCP
 
