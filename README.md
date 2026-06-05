@@ -13,6 +13,9 @@
 
 </div>
 
+### Blog 
+- **[Technical Articles & Insights by Martin Besozzi](https://embesozzi.github.io/)**
+
 ### Agentic AI Security · Agents · MCP
 
 - **[Agent Intent Authorization at TwoGenIdentity](https://twogenidentity.com/homes/agentintentauthorization/)** <br>
