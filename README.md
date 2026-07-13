@@ -7,96 +7,89 @@
 *Digital Identity · Authentication · AI · Authorization · Identity Standards · OSS*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/embesozzi/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@embesozzi)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=blog&logoColor=white)](https://embesozzi.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@embesozzi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:embesozzi@gmail.com)
 
 </div>
 
-### Blog 
-- **[Technical Articles & Insights by Martin Besozzi](https://embesozzi.github.io/)** <br>
-A new home for my technical articles, research papers, and insights on Identity, Security, Agentic AI, OAuth, Authorization, and Open Standards.
+> [!IMPORTANT]
+> ### Looking for the latest research and technical deep dives?
+> All articles, conference slides, and research papers listed below have been migrated to the new centralized repository.
+> 
+> 👉 **[Martin Besozzi's Technical Articles, Research & Insights](https://embesozzi.github.io/)**
 
-### Agentic AI Security · Agents · MCP
+### Technical Reference Index
+*The archives below are preserved as a convenience for direct access to original platform announcements and original project previews.*
 
-- **[Agent Intent Authorization at TwoGenIdentity](https://twogenidentity.com/homes/agentintentauthorization/)** <br>
-Agent Intent Authorization is a new security layer that introduces a cryptographic proof of agent intent for authorization decisions based on zero trust at agent runtime.
+<details open>
+<summary><b>Agentic AI Security, Agents & MCP</b></summary>
+<br>
 
-- **[Release of Agent Native Authorization (ANA) at TwoGenIdentity](https://agentnativeauthorization.com/)** <br>
-Agent-Native Authorization with Human-in-the-Loop
+| Resource | Scope / Type | Core Architecture Context |
+| :--- | :--- | :--- |
+| **[Agent Intent Authorization](https://twogenidentity.com/homes/agentintentauthorization/)** | Architecture Framework | Zero trust cryptographic proof of intent at agent runtime |
+| **[Agent Native Authorization (ANA)](https://agentnativeauthorization.com/)** | Architecture Framework | Agent Native Authorization with Human in the Loop |
+| **[Passkeys JIT Authorization for AI Agents](https://www.linkedin.com/feed/update/urn:li:activity:7440169146383900672)** | LinkedIn Announcement | Native authorization framework implementation |
+| **[JIT Authorization for CLI AI Agents](https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U)** | LinkedIn Post | Claude Code and GitHub Copilot CLI native OAuth experiences |
+| **[AuthZEN MCP Gateway](https://www.linkedin.com/posts/embesozzi_authzen-api-ai-activity-7420581168661737473-aoNc)** | LinkedIn Post | Context aware authorization and FGA live demonstration |
+| **[First Secure Keycloak MCP App](https://www.linkedin.com/posts/embesozzi_authzen-keycloak-mcp-activity-7422321178880417792-a9HI)** | LinkedIn Post | Application protection following zero trust principles |
+| **[Agentic AI Platform for Enterprise IAM](https://medium.com/@embesozzi/agentic-ai-platform-for-enterprise-iam-secure-agent-driven-governance-based-on-zero-trust-289a52f42790)** | Medium Article | Secure agent driven governance architecture via Keycloak MCP |
+| **[Keycloak MCP Server](https://www.linkedin.com/posts/embesozzi_keycloak-llms-ai-activity-7325126855794036737-Gjut)** | LinkedIn Post | Managing Keycloak infrastructure using LLMs and natural language |
+| **[MidPoint MCP Server](https://www.linkedin.com/posts/embesozzi_midpoint-mcp-iga-activity-7331071290767839232-fnxC)** | LinkedIn Post | Identity Governance and Administration management via AI agents |
 
-- **[Passkeys Just-In-Time Authorization for AI Agents](https://www.linkedin.com/feed/update/urn:li:activity:7440169146383900672)**<br>
-  Based on the TwoGenIdentity ANA Framework
+</details>
 
-- **[Just-In-Time (JIT) Authorization for CLI AI Agents — Claude Code & GitHub Copilot CLI](https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U)**<br>
-  Human-in-the-Loop interactions with OAuth native experiences
+<details>
+<summary><b>Speaking & Publishing</b></summary>
+<br>
 
-- **[AuthZEN MCP Gateway — MCP Security Support](https://www.linkedin.com/posts/embesozzi_authzen-api-ai-activity-7420581168661737473-aoNc)**<br>
-  Dynamic, context-aware authorization and FGA in a live MCP app demo
+| Resource | Scope / Type | Core Architecture Context |
+| :--- | :--- | :--- |
+| **[Authenticate 2025 — FIDO Alliance](https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9)** | Conference Talk | Native Authentication and Passkeys for Apps and Agents |
+| **[KeyConf25](https://www.youtube.com/watch?v=UeIiIrXesKU)** | Conference Presentation | Agentic AI for Enterprise IAM |
+| **[KeyDev25](https://www.keycloak-day.dev)** | Conference Talk | Mastering Access Control: Low Code Authorization with ReBAC |
+| **Cloudland 2025** | Conference Talk | Addressing Modern Authorization Challenges through Open Standards |
+| **[KeyConf24](https://keyconf.dev)** | Conference Presentation | Enhancing User Experience with Native Authentication in Keycloak |
+| **[Keycloak for Modern Applications, 2nd Edition](https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND)** | Technical Reviewer | Focus areas included OIDC, OAuth 2.0, and application security |
+| **[TwoGenIdentity Blog](https://twogenidentity.com/blog)** | Archive | Collected company articles on IAM and identity standards |
 
-- **[First Secure Keycloak MCP App with AuthZEN Gateway](https://www.linkedin.com/posts/embesozzi_authzen-keycloak-mcp-activity-7422321178880417792-a9HI)**<br>
-  Protected by the AuthZEN MCP Gateway following FGA and zero-trust principles
+</details>
 
-- **[Agentic AI Platform for Enterprise IAM](https://medium.com/@embesozzi/agentic-ai-platform-for-enterprise-iam-secure-agent-driven-governance-based-on-zero-trust-289a52f42790)** *(Article)*<br>
-  Secure agent-driven governance with Keycloak MCP, based on zero-trust principles and FGA — from vision to implementation
+<details>
+<summary><b>Standards & IETF</b></summary>
+<br>
 
-- **[Keycloak MCP Server](https://www.linkedin.com/posts/embesozzi_keycloak-llms-ai-activity-7325126855794036737-Gjut)**<br>
-  First MCP server for managing Keycloak using natural language through LLMs and AI agents
+| Resource | Scope / Type | Core Architecture Context |
+| :--- | :--- | :--- |
+| **[OAuth 2.0 Agents Native Authorization](https://datatracker.ietf.org/doc/draft-embesozzi-oauth-agent-native-authorization/)** | IETF Draft | Draft specification for authorization via structured elicitation |
 
-- **[MidPoint MCP Server](https://www.linkedin.com/posts/embesozzi_midpoint-mcp-iga-activity-7331071290767839232-fnxC)**<br>
-  First MCP server for managing MidPoint IGA using natural language through LLMs
+</details>
 
-### Speaking · Publishing
+<details>
+<summary><b>Authentication, Passkeys & Verifiable Credentials</b></summary>
+<br>
 
-- **[Authenticate 2025 — FIDO Alliance](https://www.linkedin.com/posts/embesozzi_authenticate2025-passkeys-identity-activity-7384738120610529280-LTs9)** *(Conference Talk)*<br>
-  Enhancing User Experience with Native Authentication and Passkeys for Apps and Agents
+| Resource | Scope / Type | Core Architecture Context |
+| :--- | :--- | :--- |
+| **[Passkeys 360](https://passkeys360.com)** | Product Launch | Unified surface security framework for applications and agents |
+| **[Deep Dive: Native Auth & Passkeys in Keycloak](https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278)** | Medium Deep Dive | Comprehensive architectural review of native implementations |
+| **[Passwordless Experience & Autofill (Conditional UI)](https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)** | Technical Workshop | Step up authentication workflows with biometrics |
+| **[Step-Up Authentication Challenge Protocol (RFC 9470)](https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)** | Technical Workshop | Protocol implementation mechanics |
+| **[Step-Up and MFA for Web Apps and APIs](https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42)** | Medium Article | Core security patterns and API enforcement |
+| **[Microsoft Verifiable Credentials Workshop](https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop)** | Code Repository | Practical interoperability patterns for managing identity claims |
 
-- **[TwoGenIdentity Blog](https://twogenidentity.com/blog)**<br>
-  A compilation of articles on IAM, Agentic AI, and identity standards
+</details>
 
-- **[KeyConf25](https://www.youtube.com/watch?v=UeIiIrXesKU)** *(Conference Talk · Recorded)*<br>
-  Agentic AI for Enterprise IAM
+<details>
+<summary><b>Authorization</b></summary>
+<br>
 
-- **[KeyDev25](https://www.keycloak-day.dev)** *(Conference Talk)*<br>
-  Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code
+| Resource | Scope / Type | Core Architecture Context |
+| :--- | :--- | :--- |
+| **[OpenID AuthZEN for API/AI Gateway](https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp)** | LinkedIn Announcement | Implementing standardized AuthZEN Policy Enforcement Points |
+| **[Mastering Access Control](https://embesozzi.medium.com/mastering-access-control-implementing-low-code-authorization-based-on-rebac-and-decoupling-pattern-f6f54f70115e)** | Medium Article | Low code authorization relying on ReBAC and decoupling patterns |
+| **[Keycloak Integration with OpenFGA](https://medium.com/@embesozzi/keycloak-integration-with-openfga-based-on-zanzibar-for-fine-grained-authorization-at-scale-d3376de00f9a)** | Medium Article | Fine Grained Authorization at scale utilizing Google Zanzibar concepts |
+| **[Building Scalable Multi-Tenancy Auth](https://medium.com/@embesozzi/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)** | Medium Article | Unified architectural approach combining Keycloak, OpenFGA, and Apache APISIX |
 
-- **Cloudland 2025 - Addressing Modern Authorization Challenges** *(Conference Talk)*<br>
-Externalize Authorization based Open Standards, Low-Code Authorization with ReBAC and Policy as Code
-
-- **[KeyConf24](https://keyconf.dev)** *(Conference Talk)*<br>
-  Enhancing User Experience with Native Authentication and Passkeys in Keycloak
-
-- **[Keycloak — Identity and Access Management for Modern Applications, 2nd Edition](https://www.amazon.com/Keycloak-Identity-Management-Applications-applications-ebook/dp/B0BPY1RDND)** *(Technical Reviewer)*<br>
-  OIDC and OAuth 2.0 to secure apps
-
-### IETF
-
-- **[OAuth 2.0 Agents Native Authorization](https://datatracker.ietf.org/doc/draft-embesozzi-oauth-agent-native-authorization/)** *(Draft)*<br>
- OAuth 2.0 Agents Native Authorization via Structured Elicitation
-
-### Authentication · Passkeys · Verifiable Credentials
-
-- **[Release of Passkeys 360 at TwoGenIdentity](https://passkeys360.com)** <br>
-Passkeys for Every Surface Unified Security for Apps & Agents
-
-- **[Deep Dive into Enhancing User Experience with Native Authentication and Passkeys in Keycloak](https://medium.com/@embesozzi/deep-dive-into-enhancing-user-experience-with-native-authentication-and-passkeys-in-keycloak-86fb72c64278)** *(Article)*
-
-- **[Passwordless Experience with Passkeys and Passkeys Autofill (Conditional UI)](https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)** *(Article · Workshop)*
-
-- **[Step-Up Authentication Challenge Protocol based on RFC 9470](https://medium.com/@embesozzi/keycloak-workshop-for-step-up-with-mfa-biometrics-authentication-passkeys-b7020ea9ae1b)** *(Article · Workshop)*
-
-- **[Step-Up and Multi-Factor Authentication (MFA) for Web Apps and APIs](https://medium.com/@embesozzi/keycloak-step-up-authentication-for-web-and-api-3ef4c9f25d42)** *(Article)*
-
-- **[Interoperability Workshop: Microsoft Verifiable Credentials for Identity Claims](https://github.com/twogenidentity/microsoft-verifiable-credentials-workshop)** *(Workshop)*
-
-### Authorization
-
-- **[Release of OpenID AuthZEN for API/AI Gateway](https://www.linkedin.com/posts/embesozzi_authzen-plugin-standardize-activity-7418849716915859456-eLsp)**<br>
-  Turning API and AI gateways into standardized AuthZEN Policy Enforcement Points
-
-- **[Mastering Access Control: Low-Code Authorization with ReBAC, Decoupling Patterns and Policy as Code](https://embesozzi.medium.com/mastering-access-control-implementing-low-code-authorization-based-on-rebac-and-decoupling-pattern-f6f54f70115e)** *(Article · Workshop)*
-
-- **[Keycloak Integration with OpenFGA based on Zanzibar for Fine-Grained Authorization at Scale](https://medium.com/@embesozzi/keycloak-integration-with-openfga-based-on-zanzibar-for-fine-grained-authorization-at-scale-d3376de00f9a)** *(Article · Workshop)*
-
-- **[Building Scalable Multi-Tenancy Authentication and Authorization using Open Standards and OSS](https://medium.com/@embesozzi/building-scalable-multi-tenancy-authentication-and-authorization-using-open-standards-and-7341fcd87b64)** *(Article · Workshop)*<br>
-  Keycloak, OpenFGA and Apache APISIX
+</details>
