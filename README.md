@@ -28,7 +28,7 @@
 
 | Resource | Scope / Type | Core Architecture Context |
 | :--- | :--- | :--- |
-| **[Agent Intent Authorization](https://twogenidentity.com/homes/agentintentauthorization/)** | Architecture Framework | Zero trust cryptographic proof of intent at agent runtime |
+| **[Agent Native Intent Authorization for Agentic Profiles (ANIA-AP)](https://twogenidentity.com/homes/agentintentauthorization/)** | Architecture Framework | Zero trust cryptographic proof of intent at agent runtime |
 | **[Agent Native Authorization (ANA)](https://agentnativeauthorization.com/)** | Architecture Framework | Agent Native Authorization with Human in the Loop |
 | **[Passkeys JIT Authorization for AI Agents](https://www.linkedin.com/feed/update/urn:li:activity:7440169146383900672)** | LinkedIn Announcement | Native authorization framework implementation |
 | **[JIT Authorization for CLI AI Agents](https://www.linkedin.com/posts/embesozzi_jit-authorization-ai-activity-7438305001019432960-zK0U)** | LinkedIn Post | Claude Code and GitHub Copilot CLI native OAuth experiences |
