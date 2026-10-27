@@ -22,7 +22,7 @@
 ### Technical Reference Index
 *The archives below are preserved as a convenience for direct access to original platform announcements and original project previews.*
 
-<details open>
+<details>
 <summary><b>Agentic AI Security, Agents & MCP</b></summary>
 <br>
 
